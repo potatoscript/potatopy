@@ -7,7 +7,7 @@ The `potato.py` library provides a set of utility functions for common tasks rel
 To install the `potato.py` library, run the following command:
 
 ```bash
-pip install potatopython
+pip install potatopy
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ pip install potatopython
 Once the library is installed, you can use it in your Python project by importing the necessary modules:
 
 ```python
-from potatopython import DatabaseConnector, EmailNotifier, Template
+from potatopy import DatabaseConnector, EmailNotifier, Template
 ```
 
 ### Email Notifications
